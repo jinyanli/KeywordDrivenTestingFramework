@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 32.752 sec <<< FAILURE! - in TestSuite
+testLogin(WebTesting.ExecuteTest)  Time elapsed: 32.358 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at WebTesting.ExecuteTest.testLogin(ExecuteTest.java:66)
+
